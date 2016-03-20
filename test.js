@@ -7,6 +7,6 @@ var element = [{
 
 element.scrollTop = function() {};
 
-scrollDown.now(element);
+scrollDown(element);
 
 console.log('Done testing. All good');
