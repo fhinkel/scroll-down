@@ -1,0 +1,35 @@
+{
+  "name": "scroll-down",
+  "version": "1.0.0",
+  "description": "Scroll down within an element",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fhinkel/scroll-down.git"
+  },
+  "keywords": [
+    "scrolling"
+  ],
+  "contributors": [
+    {
+      "name": "Franziska Hinkelmann",
+      "email": "franziska.hinkelmann@gmail.com"
+    },
+    {
+      "name": "Lars Kastner",
+      "email": "kastner@math.fu-berlin.de"
+    },
+    {
+      "name": "Mike Stillman",
+      "email": "mikestillman1@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fhinkel/scroll-down/issues"
+  },
+  "homepage": "https://github.com/fhinkel/scroll-down#readme"
+}
